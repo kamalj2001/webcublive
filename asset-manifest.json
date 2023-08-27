@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webcublive/static/css/main.99e723c0.css",
-    "main.js": "/webcublive/static/js/main.a3801e69.js",
+    "main.js": "/webcublive/static/js/main.61e5a855.js",
     "static/media/vector-web-development-web-banner.jpg": "/webcublive/static/media/vector-web-development-web-banner.76d0ae3cecc73930e0f9.jpg",
     "static/media/download-responsive-web-design-png-images-transparent-gallery-advertisement-1325.png": "/webcublive/static/media/download-responsive-web-design-png-images-transparent-gallery-advertisement-1325.74ffb6740bafe3fc6c1e.png",
     "static/media/Web-Design-PNG-Image-Transparent.png": "/webcublive/static/media/Web-Design-PNG-Image-Transparent.d6aa7f83d08cddd51659.png",
@@ -15,10 +15,10 @@
     "static/media/magento-website-development-service-provider-company-in-india.jpg": "/webcublive/static/media/magento-website-development-service-provider-company-in-india.a9b7cc431fc3eae90aa5.jpg",
     "index.html": "/webcublive/index.html",
     "main.99e723c0.css.map": "/webcublive/static/css/main.99e723c0.css.map",
-    "main.a3801e69.js.map": "/webcublive/static/js/main.a3801e69.js.map"
+    "main.61e5a855.js.map": "/webcublive/static/js/main.61e5a855.js.map"
   },
   "entrypoints": [
     "static/css/main.99e723c0.css",
-    "static/js/main.a3801e69.js"
+    "static/js/main.61e5a855.js"
   ]
 }
