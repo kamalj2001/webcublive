@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webcublive/static/css/main.99e723c0.css",
+    "main.js": "/webcublive/static/js/main.a3801e69.js",
+    "static/media/vector-web-development-web-banner.jpg": "/webcublive/static/media/vector-web-development-web-banner.76d0ae3cecc73930e0f9.jpg",
+    "static/media/download-responsive-web-design-png-images-transparent-gallery-advertisement-1325.png": "/webcublive/static/media/download-responsive-web-design-png-images-transparent-gallery-advertisement-1325.74ffb6740bafe3fc6c1e.png",
+    "static/media/Web-Design-PNG-Image-Transparent.png": "/webcublive/static/media/Web-Design-PNG-Image-Transparent.d6aa7f83d08cddd51659.png",
+    "static/media/professional-web-design-social-ink-professional-web-design-png-1000_813.png": "/webcublive/static/media/professional-web-design-social-ink-professional-web-design-png-1000_813.da116896de1266e6aecd.png",
+    "static/media/wp2387438.webp": "/webcublive/static/media/wp2387438.67701838167936b8dea7.webp",
+    "static/media/mobile_app_development_services.jpg": "/webcublive/static/media/mobile_app_development_services.cba4d0e89b0d8f2d3531.jpg",
+    "static/media/ecommerce_development.jpg": "/webcublive/static/media/ecommerce_development.9a6a17972356bbbb6b7c.jpg",
+    "static/media/banner3.jpg": "/webcublive/static/media/banner3.cc4a0a3141737bcefefb.jpg",
+    "static/media/E-Commerce-PNG-Pic.png": "/webcublive/static/media/E-Commerce-PNG-Pic.dd3e09c690e55b8bc4b6.png",
+    "static/media/PrestaShop-Development.jpg": "/webcublive/static/media/PrestaShop-Development.60c12ed593ae9a6791b0.jpg",
+    "static/media/magento-website-development-service-provider-company-in-india.jpg": "/webcublive/static/media/magento-website-development-service-provider-company-in-india.a9b7cc431fc3eae90aa5.jpg",
+    "index.html": "/webcublive/index.html",
+    "main.99e723c0.css.map": "/webcublive/static/css/main.99e723c0.css.map",
+    "main.a3801e69.js.map": "/webcublive/static/js/main.a3801e69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e723c0.css",
+    "static/js/main.a3801e69.js"
+  ]
+}
